@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(250, 235, 215);
+    margin: 10px;
+}
+.isi{
+    padding: 20px;
+    font-size: 15px;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.judul_header{
+    padding: 10px;
+    overflow: hidden;
+    background: url(bg.jpg) no-repeat center;
+    background-size: cover;
+    border-radius: 10px;
+    text-align: center;
+
+}
+.judul{
+    font-size: 27px;
+    color: aliceblue;
+}
+.penutup{
+    color: rgb(31, 156, 156);
+    font-size: 18px;
+}
